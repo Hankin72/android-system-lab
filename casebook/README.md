@@ -4,7 +4,7 @@ Real-world system issues will be converted into reusable technical cases wheneve
 
 Typical structure:
 
-```scss
+```
     Phenomenon
     → Reproduction
     → Logs
