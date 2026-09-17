@@ -18,6 +18,8 @@ Current areas of interest:
 - Android Automotive / AAOS
 - Native / Linux
 
+More experiments and notes will be added gradually.
+
 ## Repository Structure
 
 The structure will evolve over time.
@@ -32,3 +34,10 @@ android-system-lab/
 ├── performance/
 ├── casebook/
 └── README.md
+
+
+Notes
+
+This repository contains only personal experiments, public AOSP-related research, and sanitized technical notes.
+
+No proprietary source code or confidential project information will be included.
